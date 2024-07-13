@@ -1,0 +1,19 @@
+.home-container {
+  margin: 8vh 0;
+  background-color: #1efdee;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h2 {
+  color: white;
+}
+
+button {
+  background-color: white;
+  padding: 12px 12px;
+  color: #fd1ec5;
+  border-radius: 10px;
+  border: none;
+}
